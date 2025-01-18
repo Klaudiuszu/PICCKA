@@ -2,7 +2,7 @@ import Footer from "../../src/components/Footer/Footer";
 import Navbar from "../../src/components/Navbar/Navbar";
 import { getTranslationsProps } from "next-translations";
 import { namespaces } from '../../src/constants/namespaces';
-import CookiesPolicyContent from "../../src/components/CookiesPolicy/CookiesPolicyContent";
+import CookiesPolicyContent from "../../src/components/SubPages/CookiesPolicy/CookiesPolicyContent";
 import CookiesConsent from "../../src/components/Footer/CookiesConsent";
 
 
