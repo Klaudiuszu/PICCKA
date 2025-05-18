@@ -310,5 +310,15 @@
     "photo8": "Unique taste experience",
     "photo9": "Pizza for 200 people? No problem!",
     "photo10": "With us, the party tastes better!"
+  },
+  "pizzaNaWesele": {
+    "header": "Wedding pizza – an attraction your guests will remember",
+    "p1": "Planning a wedding and looking for a unique catering idea? Our mobile pizzeria is not only delicious, freshly baked pizza, but also a show-stopping attraction that will delight your guests.",
+    "p2": "We arrive with an authentic Italian oven, serve pizza on the spot, and create an atmosphere no other catering can match. We operate all across Poland – just get in touch with us at"
+  },
+  "pizzaNaImpreze": {
+    "header": "Party pizza – an attraction your guests will remember",
+    "p1": "Planning a party and looking for a unique catering idea? Our mobile pizzeria is not only delicious, freshly baked pizza, but also a show-stopping attraction that will delight your guests.",
+    "p2": "We arrive with an authentic Italian oven, serve pizza on the spot, and create an atmosphere no other catering can match. We operate all across Poland – just get in touch with us at"
   }
 }

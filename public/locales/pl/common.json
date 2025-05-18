@@ -298,8 +298,8 @@
     }
   },
 "gallery": {
-    "header": "Nasza Pizza na Imprezach",
-    "subtitle": "Prawdziwa neapolitańska magia w Twoim wydarzeniu",
+    "header": "Nasza Pizza na Weselach",
+    "subtitle": "Prawdziwa neapolitańska magia w Twoim weselu",
     "photo1": "Aż 6 różnych rodzajów pizzy!",
     "photo2": "Gotowe w zaledwie 90 sekund!",
     "photo3": "Prawdziwy piec neapolitański",
@@ -310,5 +310,15 @@
     "photo8": "Niepowtarzalny smak",
     "photo9": "Pizza na 200 osób? Żaden problem!",
     "photo10": "Z nami impreza smakuje lepiej!"
+  },
+  "pizzaNaWesele": {
+    "header": "Pizza na wesele – atrakcja, którą goście zapamiętają",
+    "p1": "Planujesz wesele i szukasz wyjątkowego pomysłu na catering? Nasza mobilna pizzeria to nie tylko pyszna, wypiekana na miejscu pizza, ale też widowiskowa atrakcja, która zachwyci Twoich gości.",
+    "p2": "Przyjeżdżamy z włoskim piecem, serwujemy pizzę na świeżo i tworzymy atmosferę, której nie zapewni żadna inna forma cateringu. Działamy w całej Polsce – wystarczy skontaktować się z nami na"
+  },
+  "pizzaNaImpreze": {
+    "header": "Pizza na imprezę – atrakcja, którą goście zapamiętają",
+    "p1": "Planujesz imprezę i szukasz wyjątkowego pomysłu na catering? Nasza mobilna pizzeria to nie tylko pyszna, wypiekana na miejscu pizza, ale też widowiskowa atrakcja, która zachwyci Twoich gości.",
+    "p2": "Przyjeżdżamy z włoskim piecem, serwujemy pizzę na świeżo i tworzymy atmosferę, której nie zapewni żadna inna forma cateringu. Działamy w całej Polsce – wystarczy skontaktować się z nami na"
   }
 }
