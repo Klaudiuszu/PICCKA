@@ -6,7 +6,13 @@ The entire **UI/UX design was created 100% by me**, without using pre-made templ
 
 ---
 
-## 🧠 Technical Overview
+## 🌐 Links
+
+- 🌍 URL: https://piccka.pl/pl/
+
+---
+
+## Technical Overview
 
 PICCKA is built using **Next.js 14** and **React 18**, leveraging static export (`next export`) to generate a fast, production-ready frontend that can be deployed as a static website.
 
@@ -21,7 +27,7 @@ Key technical characteristics:
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Core Framework & Language
 <p align="left">
