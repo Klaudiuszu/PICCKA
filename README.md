@@ -1,40 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PICCKA
 
-## Getting Started
+**PICCKA** is a fully responsive **web page application**, designed and developed with a **mobile-first approach**, scaling seamlessly from small mobile devices to wide desktop screens.
 
-First, run the development server:
+The entire **UI/UX design was created 100% by me**, without using pre-made templates or UI kits. The project focuses on performance, smooth animations, internationalization, and modern frontend architecture.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧠 Technical Overview
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+PICCKA is built using **Next.js 14** and **React 18**, leveraging static export (`next export`) to generate a fast, production-ready frontend that can be deployed as a static website.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+The application uses a **component-driven architecture**, advanced animation libraries, multiple UI systems, and internationalization tooling to support multilingual content.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Key technical characteristics:
+- Mobile-first, fully responsive layout
+- Static Site Generation (SSG)
+- Rich animations and UI interactions
+- Internationalization (i18n)
+- Modular and scalable frontend structure
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🛠️ Technologies & Tools
 
-To learn more about Next.js, take a look at the following resources:
+### Core Framework & Language
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-14-black?style=plastic&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-5.3-3178C6?style=plastic&logo=typescript&logoColor=white" />
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Styling & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=plastic&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--Tailwind-UI-0F172A?style=plastic" />
+  <img src="https://img.shields.io/badge/PrimeReact-UI-03C4A1?style=plastic" />
+  <img src="https://img.shields.io/badge/MUI-Icons-007FFF?style=plastic&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroicons-UI-111827?style=plastic" />
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Animations & Visual Effects
+<p align="left">
+  <img src="https://img.shields.io/badge/Framer--Motion-Animation-black?style=plastic&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=plastic&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swiper-Slider-6332F6?style=plastic&logo=swiper&logoColor=white" />
+</p>
 
-## Deploy on Vercel
+### Internationalization (i18n)
+<p align="left">
+  <img src="https://img.shields.io/badge/next--i18next-i18n-blue?style=plastic" />
+  <img src="https://img.shields.io/badge/next--intl-i18n-blue?style=plastic" />
+  <img src="https://img.shields.io/badge/react--intl-i18n-blue?style=plastic" />
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Forms, Emails & Utilities
+<p align="left">
+  <img src="https://img.shields.io/badge/EmailJS-Forms-orange?style=plastic" />
+  <img src="https://img.shields.io/badge/Resend-Email-black?style=plastic" />
+  <img src="https://img.shields.io/badge/Cookies--Next-Cookies-lightgrey?style=plastic" />
+  <img src="https://img.shields.io/badge/dat.GUI-Debugging-grey?style=plastic" />
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
